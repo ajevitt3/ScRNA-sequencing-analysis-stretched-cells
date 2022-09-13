@@ -1,6 +1,6 @@
 # ScRNA-sequencing-analysis-stretched-cells
 
-This repository contains the R script used in "Developmental regulation of epithelial cell cuboidal-to-squamous transition in Drosophila follicle cells" by Dongyu Jia, Allison Jevitt, Yi-Chun Huang, and Wu-Min Deng. 
+This repository contains the R script used in "Developmental regulation of epithelial cell cuboidal-to-squamous transition in Drosophila follicle cells" by Dongyu Jia, Allison Jevitt, Yi-Chun Huang, Belen Ramos, and Wu-Min Deng (Developmental Biology, 2022). 
 To perform the analysis and reproduce figures from this paper, follow the instructions below.
 
 ## Download publically available, single-cell RNA sequencing data from [Jevitt et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32339165/)
