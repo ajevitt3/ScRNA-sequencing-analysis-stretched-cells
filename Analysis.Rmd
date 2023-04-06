@@ -10,7 +10,7 @@ urlcolor: blue
 knitr::opts_chunk$set(warning = FALSE, echo = TRUE, message = FALSE)
 ```
 
-## Analysis perfomed using the following software and package versions
+## Analysis performed using the following software and package versions
 
 R version 4.1.2 (2021-11-01) -- "Bird Hippie"\
 Copyright (C) 2021 The R Foundation for Statistical Computing\
